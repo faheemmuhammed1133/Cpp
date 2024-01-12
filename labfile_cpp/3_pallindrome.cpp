@@ -1,4 +1,4 @@
-// palindrome
+// palindrome of a string
 
 #include <iostream>
 using namespace std;
